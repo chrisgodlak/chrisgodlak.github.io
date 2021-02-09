@@ -19,7 +19,7 @@ This post provides graphs on covid france
 <!--- We use two asterisks around each word we want to format as bold. -->
 some **Graphs**
 
-![Graph of pcrtest](pcrtest.png)
+![Graph of pcrtest](/assets/pcrtest.png)
 
 ![Graph of pcrhr](pcrhr.png)
 
