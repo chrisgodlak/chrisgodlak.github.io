@@ -1,7 +1,6 @@
-name: Chris Godlak
+name: chris.godlak
 description: >
-    A simple jekyll theme aimed at programmers who like clean interface to write posts
-    and show off some code.
+    chris godlak simple blog
 about: >
     a blog project
 
@@ -20,7 +19,7 @@ disqus_shortname:
 rtl: false
 owner:
   name:           chrisgodlak
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
+  avatar:         "https://avatars.githubusercontent.com/u/78697477?s=460&u=39b6c5fd7f316f327c5967f15d4fd76f30150cdf&v=4"
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter: chrisgodlak
