@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to chris.godlak blog"
 description: "welcome post"
-category: articles
+category: general
 tags: 
 comments: true
 ---
