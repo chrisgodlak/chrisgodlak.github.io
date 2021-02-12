@@ -6,10 +6,9 @@ category: articles
 tags: 
 comments: true
 ---
-# Welcome
 
 This is my first post on my blog :)
 
-I will use this blog project - *as a backup for / to store* - all my various posts from substack & medium
+I will use this blog project - *as a backup for / to store* - all my various covid-19 related posts from substack & medium
 
 Stay tuned !
