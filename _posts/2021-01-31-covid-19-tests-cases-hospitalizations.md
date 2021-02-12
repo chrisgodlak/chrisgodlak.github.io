@@ -2,7 +2,7 @@
 layout: post
 title: "'Covid-19' 'tests', 'cases', hospitalizations and lockdown dates"
 description: "'Covid-19' 'tests', 'cases', hospitalizations and lockdown dates"
-category: covid19
+category: covid
 tags: 
 comments: true
 ---
