@@ -7,6 +7,4 @@ tags:
 comments: true
 ---
 
-Substack post archive
-
-[link](https://godlak.substack.com/p/covid-19-tests-cases-hospitalizations)
+Substack post archive: ['Covid-19' 'tests', 'cases', hospitalizations and lockdown dates](https://godlak.substack.com/p/covid-19-tests-cases-hospitalizations)
