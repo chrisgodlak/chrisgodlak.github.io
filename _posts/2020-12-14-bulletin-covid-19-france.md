@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Covid-19 * France * Avril 2020"
-description: "Covid-19 * France * Avril 2020"
-category: covidfra
+title: "Bulletin covid-19 * France * 14dec2020"
+description: "Bulletin covid-19 * France * 14dec2020"
+category: covidbulletinfra
 tags: 
 comments: true
 ---
 
-Medium post archive: [Covid-19 * France * Avril 2020](https://chrisgodlak.medium.com/covid-19-france-avril-2020-e3f56c76c080)
+Medium post archive: [Bulletin covid-19 * France * 14dec2020](https://chrisgodlak.medium.com/bulletin-covid-19-france-14dec2020-1113f98d3b56)
